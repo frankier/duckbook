@@ -4,7 +4,7 @@ This is a quick-and-dirty Binder environment with the dependencies from the
 [from the DuckDB Jupyter notebook
 guide](https://duckdb.org/docs/guides/python/jupyter.html). The idea is you can
 use it locally using the `environment.yml` or can use it on Binder using
-[`nbgitpuller`](http://nbgitpuller.link/?tab=binder&repo=https://github.com/frankier/duckbook&app=retrolab).
+[`nbgitpuller`](http://nbgitpuller.link/?tab=binder&repo=https://github.com/frankier/duckbook&app=retrolab&branch=main).
 
 ## Local usage
 
@@ -15,7 +15,7 @@ use it locally using the `environment.yml` or can use it on Binder using
 
 ## Binder usage
 
-[Use the nice nbgitpuller link generator.](http://nbgitpuller.link/?tab=binder&repo=https://github.com/frankier/duckbook&app=retrolab)
+[Use the nice nbgitpuller link generator.](http://nbgitpuller.link/?tab=binder&repo=https://github.com/frankier/duckbook&app=retrolab&branch=main)
 
 ## Development
 
