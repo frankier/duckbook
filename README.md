@@ -8,9 +8,9 @@ use it locally using the `environment.yml` or can use it on Binder using
 
 ## Local usage
 
- $ git clone https://github.com/frankier/duckbook
- $ cd duckbook
- $ mamba env create -f environment.yml -n .
+    $ git clone https://github.com/frankier/duckbook
+    $ cd duckbook
+    $ mamba env create -f environment.yml -n .
 
 ## Binder usage
 
@@ -19,7 +19,7 @@ use it locally using the `environment.yml` or can use it on Binder using
 ## Development
 
 Make any package changes to `unresolved_environment.yml` and then run
-`resolve_environment.sh`, which should automate the steps from (this guide to
+`resolve_environment.sh`, which should automate the steps from [this guide to
 generating strict Conda/Mamba versions for
-repo2docker)[https://repo2docker.readthedocs.io/en/latest/howto/export_environment.html#strict-version-export].
+repo2docker](https://repo2docker.readthedocs.io/en/latest/howto/export_environment.html#strict-version-export).
 You will need to have repo2docker installed e.g. using `pipx install repo2docker`.
