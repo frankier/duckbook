@@ -10,7 +10,8 @@ use it locally using the `environment.yml` or can use it on Binder using
 
     $ git clone https://github.com/frankier/duckbook
     $ cd duckbook
-    $ mamba env create -f environment.yml -n .
+    $ mamba env create -f environment.yml -n duckbook
+    $ mamba activate duckbook
 
 ## Binder usage
 
