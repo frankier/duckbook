@@ -10,3 +10,6 @@ dependencies:
 - matplotlib
 - polars
 - pygwalker
+- pip
+- pip:
+  - git+https://github.com/frankier/nbgitpuller@forward-token
