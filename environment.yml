@@ -324,7 +324,7 @@ dependencies:
     - fqdn==1.5.1
     - isoduration==20.11.0
     - jsonpointer==2.3
-    - git+https://github.com/frankier/nbgitpuller@97174a2f5893ef1b2636e26617983b314e82d9ba
+    - git+https://github.com/frankier/nbgitpuller@72f0559d60f03f62779efeaca09e77b284930ecf
     - uri-template==1.2.0
     - webcolors==1.13
 prefix: /srv/conda
